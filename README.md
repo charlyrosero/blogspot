@@ -1,4 +1,4 @@
-# Blogspot Hyperblog
+# Blogspot Hyperblog :fa-umbrella:
 Un blog increíble para el curso de Git y GitHub de platzi
 > El curso de plazi es lo que me hacia falta para practira  dentro de mi carrera como arquitecto de software aplicado a Machine Learning
 
