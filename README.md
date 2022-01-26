@@ -5,5 +5,6 @@ Un blog increíble para el curso de Git y GitHub de platzi
 ## En este curso vamos a aprender
 -  Todos los comandos git
 - el flujo de trabajo en GitHub
+- creado por charly
 
 por último este **readme.md **es una prueba 
