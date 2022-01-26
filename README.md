@@ -6,5 +6,6 @@ Un blog increíble para el curso de Git y GitHub de platzi
 -  Todos los comandos git
 - el flujo de trabajo en GitHub
 - creado por charly
+- incluye trabajo en windows linux y mac
 
 por último este **readme.md **es una prueba 
